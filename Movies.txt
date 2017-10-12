@@ -3,3 +3,4 @@ The S&M Smurfs
 bald runner
 Blade Runner
 Flan Runner
+Spam Runner
